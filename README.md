@@ -1,1 +1,1 @@
-# LoanPrediction
+# LoanEligibilityPrediction
